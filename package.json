@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/hamJaki/todolist.git",
   "type": "module",
   "name": "tasks-list",
   "version": "0.1.0",
@@ -10,6 +11,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "html": "^1.0.0",
     "next": "14.2.3",
     "next.js": "^1.0.3",
