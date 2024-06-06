@@ -1,4 +1,5 @@
 {
+  "homepage": "https://hamJaki.github.io/todo",
   "type": "module",
   "name": "tasks-list",
   "version": "0.1.0",
