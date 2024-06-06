@@ -61,9 +61,10 @@ export default function Home() {
                                 <button
                                     className="w-6 h-6 my-auto mr-6"
                                     onClick={() => handleToggleTask(task.id)}
+                                    class="real-checkbox"
                                 >
                                     <Image
-                                        src={task.completed ? "/images/circle-checked.svg" : "/images/circle.svg"}
+                                        src={task.completed ? "/images/check.svg" : "../images/check.svg"}
                                         alt="Task status"
                                         width={30}
                                         height={30}
